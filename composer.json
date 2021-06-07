@@ -6,7 +6,7 @@
   "license": [
     "BSD-3-Clause"
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true,
   "require": {
     "php": "^7.2|^7.4",
